@@ -1,4 +1,4 @@
-## Hi all. Welcome to Brian's website.
+## Hi there! Happy you found your way here. :)
 
 You can use the [editor on GitHub](https://github.com/brajjany/yeitsbrian.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.   
 
